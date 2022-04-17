@@ -1,4 +1,4 @@
-# Easy paint (demo)
+# Easy paint
 Easy to paint.
 
 ## License
